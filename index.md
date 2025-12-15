@@ -3,5 +3,6 @@ title: Clinic Handbook
 ---
 
 # Clinic Handbook
-If you can see this, GitHub Pages is working ✅
+If you can see this, the site is working ✅
+
 
