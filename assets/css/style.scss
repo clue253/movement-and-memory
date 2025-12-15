@@ -1,0 +1,53 @@
+---
+---
+
+@import "minima";
+
+/* Base */
+body {
+  background-color: #FFFDF9;
+  color: #3A3A3A;
+  font-size: 17px;
+  line-height: 1.75;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  color: #3A3A3A;
+}
+
+/* Links */
+a {
+  color: #A7C7E7;
+}
+a:hover {
+  color: #F4B6C2;
+  text-decoration: none;
+}
+
+/* Cute divider */
+hr {
+  border: none;
+  height: 1px;
+  background: #E6E6E6;
+  margin: 2em 0;
+}
+
+/* Callout boxes */
+.callout {
+  background: #FFF1F4;
+  border-left: 4px solid #F4B6C2;
+  border-radius: 8px;
+  padding: 1em 1.25em;
+  margin: 1.5em 0;
+}
+
+/* Clinical pearl */
+.pearl {
+  background: #EEF6FF;
+  border-left: 4px solid #A7C7E7;
+  border-radius: 8px;
+  padding: 1em 1.25em;
+  margin: 1.5em 0;
+}
