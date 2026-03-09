@@ -6,10 +6,6 @@ title: Clinic Handbook
 
 Welcome! This is a growing, student-friendly clinic guide designed to make real-world clinical learning feel a little more calm, clear, and doable.
 
-<div class="callout">
-💗 **My goal:** Build a practical, easy-to-navigate resource for medical (and future PA) students with clinic essentials—how to prepare, how to present, how to document, and how to think through common scenarios with confidence.
-</div>
-
 ## What you’ll find here
 - **Clinic basics** (workflow, expectations, time-saving habits)
 - **Communication templates** (presentations, patient-friendly phrasing, return precautions)
@@ -27,4 +23,4 @@ Welcome! This is a growing, student-friendly clinic guide designed to make real-
 
 <hr />
 
-Made with care (and a little bunny energy) 🐰🤍
+🐰🤍
