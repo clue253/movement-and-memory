@@ -62,7 +62,7 @@ Examples you may see that we use in clinic:
 
 ---
 
-## 🧠 MRI Monitoring
+## 🧠 MRI & Amyloid PET Monitoring
 - MRIs are performed at **scheduled intervals**
 - Imaging determines whether infusions continue, pause, or stop
 - MRI findings may guide dose or schedule changes
@@ -74,6 +74,7 @@ Examples you may see that we use in clinic:
 approximately one week before the scheduled infusion of LEQEMBI and reviewed prior to proceeding with the
 infusion. If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed,
 including an MRI if indicated.
+- For both amyloid PET scans will be scheduled prior to infusions, 12 months and 18 months to assess pt Centiloid Value before and after to assess efficacy of treatment and whether pt can stop treatment.
 
 ---
 
