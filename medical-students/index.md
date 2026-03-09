@@ -221,7 +221,7 @@ Then click **Accept**
 ## 📅 Follow-up
 - Scroll to Follow Up → select return timeframe
 - Send note to **John C Morgan** to sign
-- 
+  
 ## Example Note
 📄 [View Example Note](../assets/example-note.pdf)
 
