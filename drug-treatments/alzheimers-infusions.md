@@ -44,6 +44,10 @@ Examples you may see that we use in clinic:
 
 ## ⚠️ ARIA (Amyloid-Related Imaging Abnormalities)
 
+<div align="center">
+<img src="../../assets/ARIA2.jpeg" width="450">
+</div>
+
 ### ARIA-E (Edema)
 - Cerebral edema
 - May be asymptomatic or symptomatic
