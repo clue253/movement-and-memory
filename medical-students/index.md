@@ -54,6 +54,7 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 
 ### Caty Lue
 - `.celintake` — HPI Question Template
+- `.celmedstudent` — Medical Student Medical Note Attestation
 
 ---
 
@@ -169,6 +170,8 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 ## 🪪 Patient ID (2 sentences)
 - Sentence 1: name, age, new/returning, problem (AD/PD), relevant PMHx, visit type (f/u/referral/results)
 - Sentence 2: who is accompanying them
+- Include pt current medications and trialed medications related to memory or movement medication
+  - You can usually copy this from the last note
 
 ## ✍️ HPI
 - Meds should be in a header/bullet format:
@@ -194,11 +197,7 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 - End with: **“Pt will RTC in __ months for f/u for ____.”**
 
 ## ✍️ Scribe lines
-Scribed for Dr. Morgan by:  
-**[YOUR NAME]**
-
-Attending attestation:  
-I have seen and examined the patient and I agree with the note above as written by my **[YOUR TITLE]**, **[YOUR NAME]**.
+Put the dot phrase `.celmedstudent` at the bottom of the note to sign that this is your note
 
 ---
 
