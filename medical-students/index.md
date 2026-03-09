@@ -31,7 +31,12 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 - We typically see **one patient at a time** → you present to the physician → then move to the next patient.
 - We see **Memory (AD)** and **Movement (PD)** disorders (check schedule/referral).
 - **You write the note** for the patient you see.
-- **Notes are due within 1 week** of starting them.
+- **Notes are due within 3 days** of starting them.
+- If a patient is established we look at the prior note to see if there were
+  - (A) Plans scheduled for clinic
+  - (B) Any referrals, orders, or medications you should cover/ask questions about
+- If a patient is new:
+  - Look for "refer" for a referral in the top search bar to determine why there are here today
 - If you’re unsure about anything, **ask** — we’re all here to help 🐰🤍
 
 ---
