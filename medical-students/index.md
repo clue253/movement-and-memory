@@ -222,9 +222,7 @@ Then click **Accept**
 - Send note to **John C Morgan** to sign
 - 
 ## Example Note
-<div align="center">
-<iframe src="../assets/example-note.pdf" width="600" height="500"></iframe>
-</div>
+📄 [View Example Note](../assets/example-note.pdf)
 
 <div class="callout">
 💗 YAY!!! All done 🙏🐰
