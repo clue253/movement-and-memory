@@ -96,6 +96,7 @@ Key points:
 - Safety monitoring is essential
 - New neurologic symptoms should prompt immediate contact
 - Don't forget to do MoCa and FAQ Every 5-6 Months
+- Pt will Return to clinic every 5 months
 
 ---
 
