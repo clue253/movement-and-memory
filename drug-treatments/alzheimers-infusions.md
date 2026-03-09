@@ -31,6 +31,7 @@ Examples you may see that we use in clinic:
 ---
 
 ## 📋 What to Check Every Visit
+- **MoCa and FAQ completed every 5-6 Months** (Please do this!!!)
 - Current **infusion number**
   - Either the patient will know AND
   - Please ask staff to contact PA Money on what infusion the patient is currently on
@@ -94,6 +95,7 @@ Key points:
 - Intended to slow disease progression
 - Safety monitoring is essential
 - New neurologic symptoms should prompt immediate contact
+- Don't forget to do MoCa and FAQ Every 5-6 Months
 
 ---
 
