@@ -1,15 +1,11 @@
 ---
-title: Alzheimer’s Disease Infusions
+title: MCI due to Alzheimer’s Disease Infusions
 ---
 # Video Links
 - [Kinsunla vs. Lequembi](https://www.youtube.com/watch?v=Imif-u-YrJY&t=1s)
 - [MoCa](https://www.drlizgeriatrics.com/wp-content/uploads/moca-test-english-7-1dragged.pdf)
 
-# CHAT STUFF
-
 # 🐰 Alzheimer’s Disease Infusions
-
-This page covers **anti-amyloid infusion therapies** used in Alzheimer’s disease (AD), with a focus on *clinical monitoring, safety, and documentation*.
 
 <div class="callout">
 💗 **Goal:** Help trainees understand how these therapies are used in practice and what must be checked at every visit.
@@ -21,25 +17,23 @@ This page covers **anti-amyloid infusion therapies** used in Alzheimer’s disea
 AD infusions are **IV anti-amyloid monoclonal antibodies** intended to reduce amyloid plaque burden in the brain.
 
 They are:
-- Used in **early AD or MCI due to AD**
+- Used in **MCI due to AD**
 - Administered on a **regular infusion schedule**
 - Closely monitored due to potential adverse effects
 
 ---
 
 ## 💉 Common Therapies
-Examples you may see include:
+Examples you may see that we use in clinic:
 - Lecanemab
-- Aducanumab
-
-<div class="pearl">
-🐾 Focus on **monitoring and safety**, not memorizing drug trials.
-</div>
+- Kisunla/donanemab-azbt
 
 ---
 
 ## 📋 What to Check Every Visit
 - Current **infusion number**
+  - Either the patient will know OR
+  - Please ask staff to contact PA Money on what infusion the patient is currently on
 - Last infusion date
 - Any missed or delayed doses
 - Recent **MRI results**
