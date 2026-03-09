@@ -11,7 +11,10 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 </div>
 
 ## ✨ Quick Start
-- 👉 **Check the schedule** (Dr. Morgan: MOB4MA, MOBN2F, MOBNGMA)
+- 👉 **Check the schedule** Look for Dr. Morgan
+  - MOB4MA (If on the 4th Floor)
+  - MOBN2F (If on the 2nd Floor)
+  - MOBNGMA (If on the 4th or 2nd Floor)
 - 🧠 **Only prior “must-know”**: how to administer a **MoCA**
 - 📄 **New patient?** Give the **clinic info sheet** (first file folder in the yellow/blue binder)
 
