@@ -60,6 +60,7 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 
 ## 🧠 Cognitive Tests: MoCA
 - MoCA is typically done **yearly**
+- If a pt is on infusions, its done every 5-6 months
 - You can skip if:
   1) medical concerns make it an unfair assessment, **or**
   2) patient is **< 12/30**
