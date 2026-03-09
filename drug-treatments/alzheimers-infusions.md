@@ -25,8 +25,8 @@ They are:
 
 ## 💉 Common Therapies
 Examples you may see that we use in clinic:
-- Lecanemab
-- Kisunla/donanemab-azbt
+- [Lecanemab](https://www.leqembi.com/-/media/Files/Leqembi/Prescribing-Information.pdf?hash=fd09a407-669b-4124-a068-0adcbbc8bfbd)
+- [Kisunla/donanemab-azbt](https://uspl.lilly.com/kisunla/kisunla.html#mg)
 
 ---
 
@@ -66,6 +66,14 @@ Examples you may see that we use in clinic:
 - MRIs are performed at **scheduled intervals**
 - Imaging determines whether infusions continue, pause, or stop
 - MRI findings may guide dose or schedule changes
+- Kisunla Monitoring for ARIA:
+  - Obtain a recent baseline brain magnetic resonance imaging (MRI) prior to initiating treatment with KISUNLA. **Obtain an MRI prior** to the **2nd, 3rd, 4th, and 7th infusions**. If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed, including an MRI if indicated.
+- Lequembi Monitoring for ARIA:
+  - Obtain a recent baseline brain magnetic resonance imaging (MRI) prior to initiating treatment with LEQEMBI.
+**Obtain an MRI prior** to the **3rd, 5th, 7th, and 14th infusions**. In general, the MRI should be performed within
+approximately one week before the scheduled infusion of LEQEMBI and reviewed prior to proceeding with the
+infusion. If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed,
+including an MRI if indicated.
 
 ---
 
@@ -76,14 +84,6 @@ Include:
 - Presence or absence of ARIA symptoms
 - Any ED visits or hospitalizations
 - Counseling provided
-
----
-
-## 🧩 Assessment & Plan Language
-Example:
-> Today we plan to continue AD infusion therapy pending MRI review and absence of ARIA symptoms.
-
-Include follow-up timing and safety instructions.
 
 ---
 
@@ -107,5 +107,5 @@ Key points:
 - Involve caregivers
 
 <div class="pearl">
-🐾 When unsure, escalate questions—infusion safety comes first.
+🐾 When unsure, escalate questions—infusion safety comes first and please ask staff if confused.
 </div>
