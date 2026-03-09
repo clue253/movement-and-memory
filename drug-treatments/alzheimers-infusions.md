@@ -32,7 +32,7 @@ Examples you may see that we use in clinic:
 
 ## 📋 What to Check Every Visit
 - Current **infusion number**
-  - Either the patient will know OR
+  - Either the patient will know AND
   - Please ask staff to contact PA Money on what infusion the patient is currently on
 - Last infusion date
 - Any missed or delayed doses
