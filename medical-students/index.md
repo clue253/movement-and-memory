@@ -86,6 +86,7 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 ## 💊 Current Medications
 - Any med related to **treatment, memory, or motor**
 - If receiving infusions: confirm **which infusion number**
+  - [Find more infusion information for clinic here](drug-treatments/alzheimers-infusions.md)
 
 ## 🧪 Trialed Medications
 - What was tried + **why it was stopped** (side effects, inefficacy, etc.)
