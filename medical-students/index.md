@@ -11,10 +11,11 @@ Welcome to the clinic essentials page! This is meant to be a calm, practical gui
 </div>
 
 ## ✨ Quick Start
-- 👉 **Check the schedule** Look for Dr. Morgan
-  - MOB4MA (If on the 4th Floor)
-  - MOBN2F (If on the 2nd Floor)
-  - MOBNGMA (If on the 4th or 2nd Floor)
+- 👉 **Check the schedule** **Look for Dr. Morgan**
+  - Search: MOB NEUR
+    - (If on the 4th Floor, hover over the name and click on the schedule that says 4th floor)
+    - (If on the 2nd Floor, hover over the name and click on the schedule that says 2nd floor)
+    - (If not able to find a patient click the schedule that says MOB NEURO GME MA)
 - 🧠 **Only prior “must-know”**: how to administer a **MoCA**
 - 📄 **New patient?** Give the **clinic info sheet** (first file folder in the yellow/blue binder)
 
