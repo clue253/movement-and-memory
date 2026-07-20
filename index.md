@@ -6,6 +6,10 @@ title: Clinic Handbook
 ## Start here
 - 👉 **[Medical Students](./medical-students/)**
 
+## [Clinic Patient Guides](clinic-guides/index.html)
+
+Visit-based guides for Movement and Memory Disorders patients. Intended for medical students, residents, fellows, PA students, shadowing students, and other clinic learners.
+
 ---
 
 <div class="pearl">
