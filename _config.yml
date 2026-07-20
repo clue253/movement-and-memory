@@ -1,2 +1,5 @@
 theme: minima
 title: Clinic Handbook
+
+header_pages:
+  - index.md
