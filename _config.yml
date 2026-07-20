@@ -1,5 +1,11 @@
-theme: minima
 title: Clinic Handbook
+description: Movement and Memory Disorders Clinic
 
-header_pages:
-  - index.md
+theme: just-the-docs
+
+color_scheme: clinic
+
+search_enabled: true
+
+url: https://clue253.github.io
+baseurl: "/movement-and-memory"
