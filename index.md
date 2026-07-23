@@ -1,71 +1,48 @@
-<<<<<<< Updated upstream
-🧠 Clinic Handbook
-
-Welcome!
-
-──────────────────────────
-
-📖 Clinic Guides
-
-Visit-by-visit workflows
-=======
 ---
 title: Home
 nav_order: 1
 ---
 
-# 🧠 Clinic Handbook
+<div class="home-hero">
 
-Welcome to the Movement and Memory Disorders Clinic Handbook.
->>>>>>> Stashed changes
+<img src="{{ '/assets/images/miffy-logo.png' | relative_url }}" alt="Miffy logo for the Movement and Memory Clinic Handbook">
 
-[Open]
+<h1>Movement &amp; Memory Clinic Handbook</h1>
 
-<<<<<<< Updated upstream
-──────────────────────────
-=======
-## 📖 Clinic Guides
+Resources for medical students, residents, fellows, PA students, shadowing students, and other learners rotating through the Movement and Memory Disorders Clinic.
 
-Visit-by-visit workflows for Memory and Movement Disorders patients.
-
-[Open Clinic Guides](./clinic-guides/){: .btn .btn-primary }
-
----
-
-## 💊 Drug Treatments
-
-Information about clinic medications and infusion treatments.
-
-[Open Drug Treatments](./drug-treatments/){: .btn }
-
----
-
-## 🎓 Learner Resources
-
-Resources for medical students and other clinic learners.
-
-[Open Learner Resources](./medical-students/){: .btn }
-
-<div class="pearl">
-🐾 **Note:** This site is educational and meant to support learning—not replace clinical judgment, supervision, or local guidelines.
 </div>
->>>>>>> Stashed changes
 
-💊 Drug Treatments
+<div class="home-grid">
 
-Infusions
-Leqembi
-Kisunla
-Botox
+<a class="home-card" href="{{ '/clinic-guides/memory/' | relative_url }}">
+  <h2>🧠 Memory Disorders</h2>
+  <p>New-patient, second-visit, and established-patient workflows.</p>
+  <span class="card-link">Open memory guides →</span>
+</a>
 
-[Open]
+<a class="home-card" href="{{ '/clinic-guides/movement/' | relative_url }}">
+  <h2>🩺 Movement Disorders</h2>
+  <p>New-patient, second-visit, and established-patient workflows.</p>
+  <span class="card-link">Open movement guides →</span>
+</a>
 
-──────────────────────────
+<a class="home-card" href="{{ '/drug-treatments/' | relative_url }}">
+  <h2>💊 Drug Treatments</h2>
+  <p>Quick-reference information for medications, infusions, and treatment workflows.</p>
+  <span class="card-link">Open treatment guides →</span>
+</a>
 
-🎓 Learner Resources
+<a class="home-card" href="{{ '/medical-students/' | relative_url }}">
+  <h2>🎓 Learner Resources</h2>
+  <p>Clinic workflow, documentation guidance, presentation tips, and additional resources.</p>
+  <span class="card-link">Open learner resources →</span>
+</a>
 
-Medical Students
-Residents
-Fellows
+</div>
 
-[Open]
+<div class="home-note">
+
+<strong>Educational use only:</strong> This handbook supports learning and clinic workflow. It does not replace clinical judgment, supervision, institutional policy, or local guidelines.
+
+</div>
