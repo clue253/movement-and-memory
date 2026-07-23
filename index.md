@@ -9,33 +9,59 @@ nav_order: 1
 
 <h1>Movement &amp; Memory Clinic Handbook</h1>
 
+<p>
 Resources for medical students, residents, fellows, PA students, shadowing students, and other learners rotating through the Movement and Memory Disorders Clinic.
+</p>
 
 </div>
 
 <div class="home-grid">
 
 <a class="home-card" href="{{ '/clinic-guides/memory/' | relative_url }}">
-  <h2>🧠 Memory Disorders</h2>
-  <p>New-patient, second-visit, and established-patient workflows.</p>
+  <div class="home-card-icon" aria-hidden="true">🧠</div>
+  <h2>Memory Disorders</h2>
+  <p class="home-card-description">Visit workflows for patients evaluated for cognitive or memory concerns.</p>
+  <ul>
+    <li>New patient</li>
+    <li>Second visit</li>
+    <li>Established patient</li>
+  </ul>
   <span class="card-link">Open memory guides →</span>
 </a>
 
 <a class="home-card" href="{{ '/clinic-guides/movement/' | relative_url }}">
-  <h2>🩺 Movement Disorders</h2>
-  <p>New-patient, second-visit, and established-patient workflows.</p>
+  <div class="home-card-icon" aria-hidden="true">🩺</div>
+  <h2>Movement Disorders</h2>
+  <p class="home-card-description">Visit workflows for patients evaluated for movement-related symptoms.</p>
+  <ul>
+    <li>New patient</li>
+    <li>Second visit</li>
+    <li>Established patient</li>
+  </ul>
   <span class="card-link">Open movement guides →</span>
 </a>
 
 <a class="home-card" href="{{ '/drug-treatments/' | relative_url }}">
-  <h2>💊 Drug Treatments</h2>
-  <p>Quick-reference information for medications, infusions, and treatment workflows.</p>
+  <div class="home-card-icon" aria-hidden="true">💊</div>
+  <h2>Drug Treatments</h2>
+  <p class="home-card-description">Quick references for medication and treatment-related clinic workflows.</p>
+  <ul>
+    <li>Anti-amyloid therapy</li>
+    <li>Infusion information</li>
+    <li>Additional treatments</li>
+  </ul>
   <span class="card-link">Open treatment guides →</span>
 </a>
 
 <a class="home-card" href="{{ '/medical-students/' | relative_url }}">
-  <h2>🎓 Learner Resources</h2>
-  <p>Clinic workflow, documentation guidance, presentation tips, and additional resources.</p>
+  <div class="home-card-icon" aria-hidden="true">🎓</div>
+  <h2>Learner Resources</h2>
+  <p class="home-card-description">Practical information for learners working or observing in clinic.</p>
+  <ul>
+    <li>Clinic workflow</li>
+    <li>Documentation guidance</li>
+    <li>Presentation tips</li>
+  </ul>
   <span class="card-link">Open learner resources →</span>
 </a>
 
