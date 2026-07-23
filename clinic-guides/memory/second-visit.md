@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Second Memory Visit
+title: Second Visit
+parent: Memory Disorders
+grand_parent: Clinic Guides
+nav_order: 2
 ---
 
 # Second Memory Visit

@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Established Movement Patient
+title: Established Patient
+parent: Movement Disorders
+grand_parent: Clinic Guides
+nav_order: 3
 ---
 
 # Established Movement Patient

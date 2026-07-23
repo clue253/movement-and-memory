@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Established Memory Patient
+title: Established Patient
+parent: Memory Disorders
+grand_parent: Clinic Guides
+nav_order: 3
 ---
 
 # Established Memory Patient

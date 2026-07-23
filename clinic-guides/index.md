@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Clinic Patient Guides
+title: Clinic Guides
+nav_order: 2
+has_children: true
+has_toc: false
 ---
 
 # Clinic Patient Guides

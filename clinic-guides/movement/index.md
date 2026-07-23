@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Movement Disorders Visit Guides
+title: Movement Disorders
+parent: Clinic Guides
+nav_order: 2
+has_children: true
+has_toc: false
 ---
 
 # Movement Disorders Visit Guides

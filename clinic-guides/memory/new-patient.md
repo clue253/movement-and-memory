@@ -1,6 +1,8 @@
 ---
-layout: default
-title: New Memory Patient
+title: New Patient
+parent: Memory Disorders
+grand_parent: Clinic Guides
+nav_order: 1
 ---
 
 # New Memory Patient

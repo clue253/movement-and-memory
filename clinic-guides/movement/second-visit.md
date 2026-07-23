@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Second Movement Visit
+title: Second Visit
+parent: Movement Disorders
+grand_parent: Clinic Guides
+nav_order: 2
 ---
 
 # Second Movement Visit

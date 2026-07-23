@@ -1,6 +1,8 @@
 ---
-layout: default
-title: New Movement Patient
+title: New Patient
+parent: Movement Disorders
+grand_parent: Clinic Guides
+nav_order: 1
 ---
 
 # New Movement Patient

@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Memory Disorders Visit Guides
+title: Memory Disorders
+parent: Clinic Guides
+nav_order: 1
+has_children: true
+has_toc: false
 ---
 
 # Memory Disorders Visit Guides
