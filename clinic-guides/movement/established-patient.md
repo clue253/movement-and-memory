@@ -4,12 +4,25 @@ parent: Movement Disorders
 grand_parent: Clinic Visit Guides
 nav_order: 3
 ---
+<div class="guide-header">
 
 # Established Movement Patient
 
 Use this checklist for a routine Movement Disorders follow-up visit.
 
-## Before Entering the Room
+<div class="guide-callout">
+
+<strong>Shared Clinic Workflow</strong>
+
+This guide assumes you are familiar with the general established-patient workflow if your patient has memory concern as well as motor. If you have not already done so, begin with the <a href="../memory/established-patient/">Memory Disorders – Established Patient Guide</a> if your patient raises concerns for memory. The sections below highlight only the workflow, documentation, and clinical considerations that differ for Movement Disorders patients.
+
+</div>
+
+</div>
+
+<div class="guide-section">
+
+## Before Dr. Morgan Enters
 
 - [ ] Review the most recent clinic note.
 - [ ] Review the diagnosis and current treatment plan.
@@ -17,7 +30,11 @@ Use this checklist for a routine Movement Disorders follow-up visit.
 - [ ] Review testing completed since the previous visit.
 - [ ] Identify the follow-up concerns from the previous plan.
 
-## Patient Update
+</div>
+
+<div class="guide-section">
+
+## During the History
 
 - [ ] Ask whether movement symptoms are improved, worse, or stable.
 - [ ] Ask about medication benefit and duration.
@@ -30,19 +47,27 @@ Use this checklist for a routine Movement Disorders follow-up visit.
 - [ ] Confirm whether the patient is driving.
 - [ ] Ask about physical, occupational, or speech therapy.
 
-## Examination and Presentation
+</div>
 
-- [ ] Complete the appropriate movement examination.
-- [ ] Compare findings with the previous visit.
-- [ ] Prepare a concise presentation for Dr. Morgan.
-- [ ] Identify the primary treatment question for today's visit.
+<div class="guide-section">
 
 ## After the Visit
 
+- [ ] Confirm the treatment plan.
 - [ ] Confirm medication changes.
-- [ ] Confirm testing and referrals.
-- [ ] Confirm the return timeframe.
-- [ ] Complete the follow-up section of the visit sheet.
-- [ ] Give the patient the clinic information sheet.
+- [ ] Confirm referrals or testing orders.
+- [ ] Confirm when the patient should return with Dr. Morgan.
+- [ ] Write on clinic information sheet when to follow-up on the visit sheet.
+- [ ] Return to patient room and give the patient the clinic information sheet, tell them when to return, and to head to the front desk to schedule their next visit.
+
+</div>
+
+<div class="guide-callout">
+
+<strong>Important</strong>
+
+Complete all required questionnaires before Dr. Morgan enters the room. Documents to scan should have a patient sticker placed on them (the front). Please place them in the pink folder.
+
+</div>
 
 [Return to Movement Disorders Guides](index.html)
