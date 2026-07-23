@@ -1,7 +1,7 @@
 ---
 title: Second Visit
 parent: Movement Disorders
-grand_parent: Clinic Guides
+grand_parent: Clinic Visit Guides
 nav_order: 2
 ---
 

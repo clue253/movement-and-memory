@@ -1,17 +1,29 @@
 ---
 title: Movement Disorders
-parent: Clinic Guides
+parent: Clinic Visit Guides
 nav_order: 2
 has_children: true
 has_toc: false
 ---
 
-# Movement Disorders Visit Guides
+# 🩺 Movement Disorders
 
-Select the patient's visit type.
+Choose the appropriate visit type.
 
-- [New Movement Patient](new-patient.html)
-- [Second Movement Visit](second-visit.html)
-- [Established Movement Patient](established-patient.html)
+## New Patient
 
-[Return to Clinic Patient Guides](../index.html)
+Use for a patient’s initial evaluation in the Movement Disorders Clinic.
+
+[Open New Patient Guide](./new-patient/){: .btn .btn-primary }
+
+## Second Visit
+
+Use for review of testing, diagnosis, and response to initial treatment.
+
+[Open Second Visit Guide](./second-visit/){: .btn .btn-primary }
+
+## Established Patient
+
+Use for routine follow-up visits and ongoing management.
+
+[Open Established Patient Guide](./established-patient/){: .btn .btn-primary }

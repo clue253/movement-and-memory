@@ -1,7 +1,7 @@
 ---
 title: New Patient
 parent: Memory Disorders
-grand_parent: Clinic Guides
+grand_parent: Clinic Visit Guides
 nav_order: 1
 ---
 

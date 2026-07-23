@@ -3,11 +3,11 @@ nav:
 - title: Home
   url: /
 
-- title: Clinic Guides
+- title: 📋 Visit Guides
 
   children:
 
-    - title: Memory Disorders
+    - title: 🧠 Memory Disorders
 
       children:
 
@@ -20,7 +20,7 @@ nav:
         - title: Established Patient
           url: /clinic-guides/memory/established-patient/
 
-    - title: Movement Disorders
+    - title: 🏃 Movement Disorders
 
       children:
 
@@ -33,8 +33,8 @@ nav:
         - title: Established Patient
           url: /clinic-guides/movement/established-patient/
 
-- title: Drug Treatments
+- title: 💊 Drug Treatments
   url: /drug-treatments/
 
-- title: Medical Students
+- title: 🎓 Learner Resources
   url: /medical-students/
