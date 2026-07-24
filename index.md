@@ -73,7 +73,7 @@ Resources for medical students, residents, fellows, PA students, shadowing stude
 
 <div class="quick-actions-grid">
 
-<a class="quick-action" href="{{ '/clinic-guides/memory/new-patient/' | relative_url }}">
+<a class="quick-action" href="{{ '/clinic-guides/memory/new-patient.html' | relative_url }}">
   <span class="quick-action-icon" aria-hidden="true">🧠</span>
   <span>
     <strong>New Memory Patient</strong>
