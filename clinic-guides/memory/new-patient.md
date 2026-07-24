@@ -5,6 +5,18 @@ grand_parent: Clinic Visit Guides
 nav_order: 1
 ---
 
+<div class="guide-callout epic-guide-link">
+
+<strong>Before documenting this visit</strong>
+
+Review the EPIC setup, note-writing workflow, and example completed clinic note before starting.
+
+<a class="btn btn-primary" href="{{ '/medical-students/epic-documentation/' | relative_url }}">
+  Open EPIC Documentation Guide
+</a>
+
+</div>
+
 <div class="guide-header">
 
 <h1>🧠 New Memory Patient</h1>

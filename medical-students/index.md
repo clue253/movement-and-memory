@@ -5,6 +5,8 @@ has_children: true
 has_toc: false
 ---
 
+# Outdated Resource!!!
+
 # 🐰 Medical Students
 
 Welcome to the clinic essentials page! This is meant to be a calm, practical guide for how our clinic runs and what you should do each visit.

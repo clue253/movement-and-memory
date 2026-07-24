@@ -1,0 +1,62 @@
+/* ======================================================
+   POLISHED HOMEPAGE CARDS
+====================================================== */
+
+.home-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.home-card-icon {
+  width: 3rem;
+  height: 3rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.85rem;
+  border-radius: 50%;
+  background: #f7edf1;
+  font-size: 1.5rem;
+}
+
+.home-card h2 {
+  margin-bottom: 0.5rem;
+}
+
+.home-card-description {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+}
+
+.home-card ul {
+  margin: 0 0 1.25rem;
+  padding-left: 1.3rem;
+}
+
+.home-card li {
+  margin-bottom: 0.35rem;
+}
+
+.home-card .card-link {
+  margin-top: auto;
+  padding-top: 0.75rem;
+  border-top: 1px solid #eee5e9;
+}
+
+@media (max-width: 700px) {
+  .home-card {
+    min-height: auto;
+  }
+
+  .home-card-icon {
+    width: 2.75rem;
+    height: 2.75rem;
+    font-size: 1.35rem;
+  }
+
+  .home-card ul {
+    margin-bottom: 1rem;
+  }
+}
