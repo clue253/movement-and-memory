@@ -67,6 +67,48 @@ Resources for medical students, residents, fellows, PA students, shadowing stude
 
 </div>
 
+<section class="quick-actions">
+
+<h2>Quick Actions</h2>
+
+<div class="quick-actions-grid">
+
+<a class="quick-action" href="{{ '/clinic-guides/memory/new-patient/' | relative_url }}">
+  <span class="quick-action-icon" aria-hidden="true">🧠</span>
+  <span>
+    <strong>New Memory Patient</strong>
+    <small>Open the initial memory visit workflow</small>
+  </span>
+</a>
+
+<a class="quick-action" href="{{ '/clinic-guides/movement/new-patient/' | relative_url }}">
+  <span class="quick-action-icon" aria-hidden="true">🩺</span>
+  <span>
+    <strong>New Movement Patient</strong>
+    <small>Open the initial movement visit workflow</small>
+  </span>
+</a>
+
+<a class="quick-action" href="{{ '/drug-treatments/alzheimers-infusions/' | relative_url }}">
+  <span class="quick-action-icon" aria-hidden="true">💉</span>
+  <span>
+    <strong>Anti-Amyloid Infusions</strong>
+    <small>Review infusion and treatment information</small>
+  </span>
+</a>
+
+<a class="quick-action" href="{{ '/medical-students/' | relative_url }}">
+  <span class="quick-action-icon" aria-hidden="true">🎓</span>
+  <span>
+    <strong>Learner Resources</strong>
+    <small>Open clinic workflow and learner guidance</small>
+  </span>
+</a>
+
+</div>
+
+</section>
+
 <div class="home-note">
 
 <strong>Educational use only:</strong> This handbook supports learning and clinic workflow. It does not replace clinical judgment, supervision, institutional policy, or local guidelines.
