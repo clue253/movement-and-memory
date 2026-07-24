@@ -1,5 +1,7 @@
 ---
-title: MCI due to Alzheimer’s Disease Infusions
+title: MCI Due to Alzheimer’s Disease Infusions
+parent: Drug Treatments
+nav_order: 1
 ---
 # Video Links
 - [Kinsunla vs. Lequembi](https://www.youtube.com/watch?v=Imif-u-YrJY&t=1s)

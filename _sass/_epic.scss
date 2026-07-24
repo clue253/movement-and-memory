@@ -1,0 +1,368 @@
+/* ======================================================
+   EPIC DOCUMENTATION PAGE
+====================================================== */
+
+.epic-guide .main-content h1 {
+  margin-bottom: 0.75rem;
+}
+
+.epic-guide .main-content h2 {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #eee5e9;
+}
+
+.epic-guide .main-content h3 {
+  margin-top: 1.75rem;
+}
+
+.epic-guide .main-content img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 620px;
+  margin: 1.25rem auto 2rem;
+  padding: 0.6rem;
+  border: 1px solid #eadfe4;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(88, 58, 70, 0.06);
+}
+
+.epic-guide .main-content table {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 14px;
+}
+
+.epic-guide .main-content code {
+  font-size: 0.95em;
+}
+
+.epic-guide .main-content > ol,
+.epic-guide .main-content > ul {
+  padding: 1rem 1.25rem 1rem 2.5rem;
+  border: 1px solid #eee5e9;
+  border-radius: 14px;
+  background: #fffafb;
+}
+
+.epic-guide .main-content > ol li,
+.epic-guide .main-content > ul li {
+  margin-bottom: 0.55rem;
+}
+
+@media (max-width: 700px) {
+  .epic-guide .main-content h2 {
+    margin-top: 2rem;
+  }
+
+  .epic-guide .main-content img {
+    margin: 1rem auto 1.5rem;
+    padding: 0.4rem;
+    border-radius: 12px;
+  }
+
+  .epic-guide .main-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .epic-guide .main-content > ol,
+  .epic-guide .main-content > ul {
+    padding: 0.9rem 1rem 0.9rem 2.2rem;
+  }
+}
+
+/* ======================================================
+   EPIC SCREENSHOTS
+====================================================== */
+
+.epic-guide img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 620px;
+  margin: 1.25rem auto 0.5rem;
+  padding: 0.55rem;
+  border: 1px solid #eadfe4;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 5px 16px rgba(88, 58, 70, 0.08);
+}
+
+.epic-guide p > img {
+  margin-bottom: 0.5rem;
+}
+
+.epic-guide em {
+  display: block;
+  margin-top: 0.35rem;
+  margin-bottom: 1.5rem;
+  color: #74686d;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .epic-guide img {
+    max-height: none;
+    margin-top: 1rem;
+    padding: 0.35rem;
+    border-radius: 12px;
+  }
+
+  .epic-guide em {
+    margin-bottom: 1.25rem;
+    font-size: 0.82rem;
+  }
+}
+/* ======================================================
+   EPIC TUTORIAL IMAGE CARDS
+====================================================== */
+
+.epic-tutorial-card {
+  width: min(100%, 760px);
+  margin: 1.25rem auto 2rem;
+  overflow: hidden;
+  border: 1px solid #eadfe4;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 5px 16px rgba(88, 58, 70, 0.08);
+}
+
+.epic-tutorial-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.epic-tutorial-card figcaption {
+  padding: 0.85rem 1rem;
+  border-top: 1px solid #eadfe4;
+  color: #685d62;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  text-align: left;
+  background: #fffafb;
+}
+
+.epic-tutorial-card-small {
+  width: min(100%, 340px);
+}
+
+@media (max-width: 700px) {
+  .epic-tutorial-card {
+    margin: 1rem auto 1.5rem;
+    border-radius: 12px;
+  }
+
+  .epic-tutorial-card-small {
+    width: min(100%, 280px);
+  }
+
+  .epic-tutorial-card figcaption {
+    padding: 0.75rem 0.85rem;
+    font-size: 0.84rem;
+  }
+}
+
+/* ======================================================
+   EPIC ACCORDIONS
+====================================================== */
+
+.epic-dropdown-wrapper {
+  margin: 2.5rem 0;
+  padding-top: 2rem;
+  border-top: 1px solid #eee5e9;
+}
+
+.epic-dropdown {
+  overflow: hidden;
+  border: 1px solid #eadfe4;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(60, 42, 50, 0.05);
+}
+
+.epic-dropdown summary {
+  background: #ffffff;
+}
+
+.epic-dropdown summary:hover {
+  background: #fffafb;
+}
+
+.epic-dropdown summary {
+  display: block;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  transition: background .2s ease;
+}
+
+.epic-dropdown-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  width: 100%;
+  padding: 1.35rem 1.6rem;
+}
+
+.epic-dropdown-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.epic-dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+.epic-dropdown summary:hover {
+  background: #fffafb;
+}
+
+.epic-dropdown-title {
+  display: block;
+  margin-bottom: .2rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #2f2a2d;
+}
+
+.epic-dropdown-arrow {
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+  margin-top: .35rem;
+}
+
+.epic-dropdown-arrow::before {
+  content: "⌄";
+  display: block;
+  color: #bf7d98;
+  font-size: 1.15rem;
+  line-height: 1;
+  transition: transform .25s ease;
+}
+
+.epic-dropdown[open] .epic-dropdown-arrow::before {
+  transform: rotate(180deg);
+}
+
+.epic-dropdown-description {
+  display: block;
+  color: #60565b;
+  font-size: .95rem;
+}
+
+.epic-dropdown-content {
+  padding: 1.5rem;
+  border-top: 1px solid #eee3e8;
+  background: #ffffff;
+}
+
+.epic-dropdown-content > :first-child {
+  margin-top: 0;
+}
+
+.epic-dropdown-content > :last-child {
+  margin-bottom: 0;
+}
+
+.epic-dropdown summary:focus-visible {
+  outline: 3px solid rgba(191, 125, 152, 0.35);
+  outline-offset: -3px;
+}
+
+@media (max-width: 700px) {
+  .epic-dropdown {
+    border-radius: 14px;
+  }
+
+  .epic-dropdown summary {
+    padding: 1rem 1.1rem;
+  }
+
+  .epic-dropdown-title {
+    font-size: 1.05rem;
+  }
+
+  .epic-dropdown-description {
+    margin-left: 1.55rem;
+    font-size: 0.82rem;
+  }
+
+  .epic-dropdown-content {
+    padding: 1rem;
+  }
+}
+
+/* ======================================================
+   SAMPLE NOTE GALLERY
+====================================================== */
+
+.sample-note-gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.sample-note-page {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid #eadfe4;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 5px 16px rgba(88, 58, 70, 0.08);
+}
+
+.sample-note-page img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.sample-note-page figcaption {
+  padding: 0.85rem 1rem;
+  border-top: 1px solid #eadfe4;
+  color: #685d62;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  background: #fffafb;
+}
+
+.sample-note-page-narrow {
+  width: min(100%, 760px);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (max-width: 700px) {
+  .sample-note-gallery {
+    gap: 1rem;
+  }
+
+  .sample-note-page {
+    border-radius: 12px;
+  }
+
+  .sample-note-page figcaption {
+    padding: 0.75rem 0.85rem;
+    font-size: 0.84rem;
+  }
+}

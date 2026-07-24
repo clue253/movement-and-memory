@@ -1,5 +1,13 @@
-theme: minima
-title: Clinic Handbook
+title: Movement & Memory Clinic Handbook
+description: Resources for learners rotating in the Movement & Memory Disorders Clinic.
 
-header_pages:
-  - index.md
+theme: just-the-docs
+
+color_scheme: clinic
+
+search_enabled: true
+
+logo: "/assets/images/miffy-logo.png"
+
+url: https://clue253.github.io
+baseurl: "/movement-and-memory"

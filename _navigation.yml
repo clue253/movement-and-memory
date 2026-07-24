@@ -1,0 +1,40 @@
+nav:
+
+- title: Home
+  url: /
+
+- title: 📋 Visit Guides
+
+  children:
+
+    - title: 🧠 Memory Disorders
+
+      children:
+
+        - title: New Patient
+          url: /clinic-guides/memory/new-patient/
+
+        - title: Second Visit
+          url: /clinic-guides/memory/second-visit/
+
+        - title: Established Patient
+          url: /clinic-guides/memory/established-patient/
+
+    - title: 🏃 Movement Disorders
+
+      children:
+
+        - title: New Patient
+          url: /clinic-guides/movement/new-patient/
+
+        - title: Second Visit
+          url: /clinic-guides/movement/second-visit/
+
+        - title: Established Patient
+          url: /clinic-guides/movement/established-patient/
+
+- title: 💊 Drug Treatments
+  url: /drug-treatments/
+
+- title: 🎓 Learner Resources
+  url: /medical-students/

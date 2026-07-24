@@ -1,0 +1,37 @@
+<div class="epic-dropdown-wrapper">
+
+<details class="epic-dropdown" id="{{ include.id }}">
+
+<summary>
+
+<div class="epic-dropdown-header">
+
+<div class="epic-dropdown-text">
+
+<span class="epic-dropdown-title">
+{{ include.title }}
+</span>
+
+{% if include.description %}
+<span class="epic-dropdown-description">
+{{ include.description }}
+</span>
+{% endif %}
+
+</div>
+
+<span class="epic-dropdown-arrow" aria-hidden="true"></span>
+
+</div>
+
+</summary>
+
+<div class="epic-dropdown-content">
+
+{{ include.content | markdownify }}
+
+</div>
+
+</details>
+
+</div>
