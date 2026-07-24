@@ -1,3 +1,8 @@
 .DS_Store
 .Rhistory
 _site/
+_site/
+.DS_Store
+**/.DS_Store
+.Rhistory
+**/.Rhistory
