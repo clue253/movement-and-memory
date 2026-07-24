@@ -6,9 +6,9 @@ nav_order: 2
 ---
 <div class="guide-header">
 
-# Second Memory Visit
+<h1>🧠Second Memory Visit</h1>
 
-Use this checklist for a patient's second Memory Disorders Clinic visit.
+<p>Use this checklist for a patient's second Memory Disorders Clinic visit.</p>
 
 <div class="guide-meta">
   <span class="guide-tag">Initial visit</span>
@@ -16,11 +16,16 @@ Use this checklist for a patient's second Memory Disorders Clinic visit.
   <span class="guide-tag">Checklist</span>
 </div>
 
+
 </div>
 
-<div class="guide-section">
+<details class="guide-dropdown" open>
+<summary>
+  <span class="dropdown-title">Before Dr. Morgan Enters</span>
+  <span class="dropdown-hint">Required intake forms and materials</span>
+</summary>
 
-## Before Dr. Morgan Enters
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Review the first clinic note.
 - [ ] Review the prior cognitive testing results.
@@ -31,7 +36,17 @@ Use this checklist for a patient's second Memory Disorders Clinic visit.
 - [ ] Review the amyloid PET scan, if completed.
 - [ ] Determine whether all requested testing was completed.
 
-## Patient and Caregiver Update
+</div>
+</details>
+
+
+<details class="guide-dropdown">
+<summary>
+  <span class="dropdown-title">Patient and Caregiver Update</span>
+  <span class="dropdown-hint">Review the chart and prepare for intake</span>
+</summary>
+
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Ask whether memory symptoms have changed.
 - [ ] Ask about new functional changes.
@@ -42,34 +57,52 @@ Use this checklist for a patient's second Memory Disorders Clinic visit.
 - [ ] Obtain collateral history from the caregiver when available.
 
 </div>
+</details>
 
-<div class="guide-section">
 
-## Presenting the Patient
+<details class="guide-dropdown">
+<summary>
+  <span class="dropdown-title">Presenting the Patient</span>
+  <span class="dropdown-hint">Prepare a concise presentation for Dr. Morgan</span>
+</summary>
+
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Complete updated cognitive testing when requested.
-- [ ] Complete the appropriate neurologic examination.
 - [ ] Prepare a presentation for Dr. Morgan, including medication.
+- [ ] Summarize the onset and progression of cognitive symptoms.
+- [ ] Provide two or three specific examples of the patient’s cognitive difficulty.
+- [ ] Summarize the caregiver’s collateral history.
+- [ ] Describe changes in ADLs and IADLs.
 - [ ] Review last visits MOCA score.
 - [ ] Review last visits plans and what was and was not completed, and the results of the labs/tests if done.
+- [ ] Report the most important examination findings.
 - [ ] Be prepared to discuss the testing results and likely diagnosis.
+- [ ] Ask Caty, the fellow, or Dr. Morgan when instructions or findings are unclear.
 
 </div>
+</details>
 
-<div class="guide-section">
+<details class="guide-dropdown">
+<summary>
+  <span class="dropdown-title">After the Visit</span>
+  <span class="dropdown-hint">Complete follow-up instructions and documentation</span>
+</summary>
 
-## After the Visit
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Confirm the diagnosis discussed with the patient and caregiver.
 - [ ] Confirm medication recommendations.
 - [ ] Confirm additional testing or referrals.
-- [ ] Confirm the return timeframe.
-- [ ] Complete the follow-up section of the visit sheet.
-- [ ] Give the patient the clinic information sheet and any referrals needed with Dr. Morgans signature. If they are virtual, they will receive a call to schedule.
+- [ ] Confirm in how many month or in a year for patient to have a return visit and write it on the clinic information sheet and give to the patient.
+- [ ] Give the patient any referrals needed with Dr. Morgans signature. If they are digital referrals, they will receive a call to schedule.
+- [ ] Return to patient room and give the patient the clinic information sheet, tell them when to return, and to head to the front desk to schedule their next visit.
 
 Confirm whether the patient diagnosis and whether patient should return in six months, one year, or released from clinic based on Dr. Morgan's instructions.
 
 </div>
+</details>
+
 
 <div class="guide-callout">
 

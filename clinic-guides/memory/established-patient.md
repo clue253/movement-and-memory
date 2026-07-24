@@ -4,16 +4,22 @@ parent: Memory Disorders
 grand_parent: Clinic Visit Guides
 nav_order: 3
 ---
+<div class="guide-header">
 
-# Established Memory Patient
+<h1>🧠Established Memory Patient</h1>
 
-Use this checklist for a routine Memory Disorders follow-up visit.
+<p>Use this checklist for a routine Memory Disorders follow-up visit.</p>
+
 
 </div>
 
-<div class="guide-section">
+<details class="guide-dropdown" open>
+<summary>
+  <span class="dropdown-title">Before Dr. Morgan Enters</span>
+  <span class="dropdown-hint">Required intake forms and materials</span>
+</summary>
 
-## Before Entering the Room
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Review the most recent clinic note.
 - [ ] Review the diagnosis and current treatment plan.
@@ -23,10 +29,16 @@ Use this checklist for a routine Memory Disorders follow-up visit.
 - [ ] Identify the follow-up concerns from the previous plan.
 
 </div>
+</details>
 
-<div class="guide-section">
 
-## During the History
+<details class="guide-dropdown">
+<summary>
+  <span class="dropdown-title">Patient and Caregiver Update</span>
+  <span class="dropdown-hint">Review the chart and prepare for intake</span>
+</summary>
+
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Ask whether cognition has improved, worsened, or remained stable.
 - [ ] Ask for specific examples of cognitive changes.
@@ -38,19 +50,22 @@ Use this checklist for a routine Memory Disorders follow-up visit.
 - [ ] Ask about mood, sleep, hallucinations, behavior, falls, wandering, and safety concerns.
 - [ ] Ask about caregiver concerns and caregiver burden.
 - [ ] Obtain collateral history when available.
-
-## Testing
-
 - [ ] Complete the MoCA if requested or due.
 - [ ] Complete the FAQ if requested or due.
 - [ ] Review recent imaging and laboratory results.
 - [ ] Review neuropsychological testing when applicable.
 
 </div>
+</details>
 
-<div class="guide-section">
 
-## Presenting the Patient
+<details class="guide-dropdown">
+<summary>
+  <span class="dropdown-title">Presenting the Patient</span>
+  <span class="dropdown-hint">Prepare a concise presentation for Dr. Morgan</span>
+</summary>
+
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Make sure to have completed the appropriate neurologic examination.
 - [ ] Compare cognition and function with the previous visit.
@@ -58,22 +73,30 @@ Use this checklist for a routine Memory Disorders follow-up visit.
 - [ ] Review last visits plans and what was and was not completed, and the results of the labs/tests if done.
 - [ ] Review last visits MOCA score.
 - [ ] Identify the main treatment or safety concern for today's visit.
+- [ ] Ask Caty, the fellow, or Dr. Morgan when instructions or findings are unclear.
 
 </div>
+</details>
 
-<div class="guide-section">
+<details class="guide-dropdown">
+<summary>
+  <span class="dropdown-title">After the Visit</span>
+  <span class="dropdown-hint">Complete follow-up instructions and documentation</span>
+</summary>
 
-## After the Visit
+<div class="guide-dropdown-content" markdown="1">
 
 - [ ] Confirm medication changes.
 - [ ] Confirm testing and referrals.
-- [ ] Confirm the return timeframe.
-- [ ] Complete the follow-up section of the visit sheet.
-- [ ] Give the patient the clinic information sheet.
+- [ ] Confirm in how many month or in a year for patient to have a return visit and write it on the clinic informational sheet and give to the patient.
+- [ ] Give the patient any referrals needed with Dr. Morgans signature. If they are digital referrals, they will receive a call to schedule.
 
 Standard memory follow-up is generally one year with Dr. Morgan or six months in continuity clinic when an earlier visit is needed. If patient MoCa is below 14, ask Dr. Morgan if patient should be released from clinic back to PCP. Follow Dr. Morgan's specific instructions.
 
 </div>
+</details>
+
+
 
 <div class="guide-callout">
 
