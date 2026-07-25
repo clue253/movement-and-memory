@@ -14,16 +14,16 @@ Choose the appropriate visit type.
 
 Use for a patient’s initial evaluation in the Memory Disorders Clinic.
 
-[Open New Patient Guide](./new-patient/){: .btn .btn-primary }
+[Open New Patient Guide](./new-patient.html){: .btn .btn-primary }
 
 ## Second Visit
 
 Use for review of completed testing, diagnosis, and treatment planning.
 
-[Open Second Visit Guide](./second-visit/){: .btn .btn-primary }
+[Open Second Visit Guide](./second-visit.html){: .btn .btn-primary }
 
 ## Established Patient
 
 Use for routine follow-up visits and ongoing management.
 
-[Open Established Patient Guide](./established-patient/){: .btn .btn-primary }
+[Open Established Patient Guide](./established-patient.html){: .btn .btn-primary }
