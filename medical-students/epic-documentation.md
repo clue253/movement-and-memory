@@ -233,13 +233,13 @@ Press **Enter/Return** to populate the Review of Systems section.
 {% endcapture %}
 
 {% include accordion.html
-  id="creating-todays-note"
-  title="Creating Today's Note"
-  description="Begin with a blank note in the correct encounter"
-  content=creating_note_content
+  id="using-the-smartphrases"
+  title="Using the SmartPhrases"
+  description="Insert saved SmartPhrases into a note"
+  content=using_smartphrases_content
 %}
 
-{% capture new_patient_content %}
+{% capture creating_note_content %}
 
 For both new and returning patients:
 
