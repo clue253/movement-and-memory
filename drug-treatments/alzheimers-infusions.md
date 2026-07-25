@@ -15,17 +15,10 @@ nav_order: 1
 
 ---
 
-<div class="guide-callout epic-guide-link">
-
-<strong>Before documenting these patients</strong>
-
-Review the EPIC setup, note-writing workflow, and example completed clinic note before documenting patients receiving anti-amyloid therapy.
-
-<a class="btn btn-primary" href="/movement-and-memory/medical-students/epic-documentation.html">
-  Open EPIC Documentation Guide
-</a>
-
-</div>
+{% include epic-guide-link.html
+   heading="Before documenting these patients"
+   message="Review the EPIC setup, note-writing workflow, and example completed clinic note before documenting patients receiving anti-amyloid therapy."
+%}
 
 ## 🧠 What are AD infusions?
 AD infusions are **IV anti-amyloid monoclonal antibodies** intended to reduce amyloid plaque burden in the brain.
