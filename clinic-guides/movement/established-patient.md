@@ -11,7 +11,7 @@ nav_order: 3
 
 Review the EPIC setup, note-writing workflow, and example completed clinic note before starting.
 
-<a class="btn btn-primary" href="{{ '/medical-students/epic-documentation.html' | relative_url }}">
+<a class="btn btn-primary" href="/movement-and-memory/medical-students/epic-documentation.html">
   Open EPIC Documentation Guide
 </a>
 
