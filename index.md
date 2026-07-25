@@ -81,7 +81,7 @@ Resources for medical students, residents, fellows, PA students, shadowing stude
   </span>
 </a>
 
-<a class="quick-action" href="{{ '/clinic-guides/movement/new-patient/' | relative_url }}">
+<a class="quick-action" href="{{ '/clinic-guides/movement/new-patient.html' | relative_url }}">
   <span class="quick-action-icon" aria-hidden="true">🩺</span>
   <span>
     <strong>New Movement Patient</strong>
@@ -89,7 +89,7 @@ Resources for medical students, residents, fellows, PA students, shadowing stude
   </span>
 </a>
 
-<a class="quick-action" href="{{ '/drug-treatments/alzheimers-infusions/' | relative_url }}">
+<a class="quick-action" href="{{ '/drug-treatments/alzheimers-infusions.html' | relative_url }}">
   <span class="quick-action-icon" aria-hidden="true">💉</span>
   <span>
     <strong>Anti-Amyloid Infusions</strong>
