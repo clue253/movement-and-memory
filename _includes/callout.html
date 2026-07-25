@@ -1,0 +1,14 @@
+<div class="guide-callout{% if include.type %} {{ include.type }}{% endif %}">
+
+{% if include.icon %}
+<div class="callout-header">
+<span class="callout-icon" aria-hidden="true">{{ include.icon }}</span>
+<strong>{{ include.title }}</strong>
+</div>
+{% elsif include.title %}
+<strong>{{ include.title }}</strong>
+{% endif %}
+
+{{ include.content | markdownify }}
+
+</div>

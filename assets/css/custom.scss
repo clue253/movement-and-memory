@@ -5,3 +5,66 @@
 @import "homepage";
 @import "clinic-guides";
 @import "epic";
+
+.callout-header {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin-bottom: .35rem;
+}
+
+.callout-icon {
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+/* ======================================================
+   CALLOUT TYPES
+====================================================== */
+
+.guide-callout {
+  --callout-accent: #c987a0;
+  --callout-bg: #faf5f7;
+
+  border-left-color: var(--callout-accent);
+  background: var(--callout-bg);
+}
+
+.guide-callout.warning {
+  --callout-accent: #b7791f;
+  --callout-bg: #fff9eb;
+}
+
+.guide-callout.tip {
+  --callout-accent: #4f7fa8;
+  --callout-bg: #f3f8fc;
+}
+
+.guide-callout.checklist {
+  --callout-accent: #4f8468;
+  --callout-bg: #f2f8f4;
+}
+
+.guide-callout.documentation {
+  --callout-accent: #7a67a8;
+  --callout-bg: #f7f4fb;
+}
+
+.callout-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.35rem;
+}
+
+.callout-icon {
+  flex: 0 0 auto;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.guide-callout > p:last-child,
+.guide-callout > ul:last-child,
+.guide-callout > ol:last-child {
+  margin-bottom: 0;
+}

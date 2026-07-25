@@ -183,12 +183,17 @@ nav_order: 1
 </div>
 </details>
 
-<div class="guide-callout">
-
-<strong>Important</strong>
+{% capture important_note %}
 
 Complete all required questionnaires before Dr. Morgan enters the room. Place a patient sticker on the front of all documents that need to be scanned, then place them in the pink folder.
 
-</div>
+{% endcapture %}
+
+{% include callout.html
+  icon="⚠️"
+  title="Important"
+  content=important_note
+  type="warning"
+%}
 
 [Return to Memory Disorders Guides](./)
